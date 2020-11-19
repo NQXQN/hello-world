@@ -1,2 +1,5 @@
 # hello-world
-Just learnin
+Just learnin git
+Attempting to commit
+Bit by bit
+By submitting a single edit
